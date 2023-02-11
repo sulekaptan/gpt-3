@@ -35,7 +35,7 @@ const Navbar = () => {
           <div className='navbar-menu-container scale-up-center'>
             <div className='navbar-menu-container-links'>
               <p><a href="#home">Home</a></p>
-              <p><a href="#wgpt3">What is GPT3?</a></p>
+              <p><a href="#whatgpt3">What is GPT3?</a></p>
               <p><a href="#possibility">Open AI</a></p>
               <p><a href="#features">Case Studies</a></p>
               <p><a href="#blog">Library</a></p>
