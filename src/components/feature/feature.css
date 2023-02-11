@@ -1,0 +1,39 @@
+.features-container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-direction: row;
+    margin: 1rem;
+}
+
+.features-container-title{
+    flex: 1;
+    max-width: 180px;
+    margin-right: 2rem;
+}
+
+.features-container-title h1{
+    font-family: var(--font-family);
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: -0.04em;
+    color: #FFFFFF;
+}
+
+.features-container-title div{
+    width: 38px;
+    height: 3px;
+    background: var(--gradient-bar);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.4);
+    margin-bottom: 0.25rem;
+}
+
+.features-container-text{
+    flex: 2;
+    max-width: 390px;
+    display: flex;
+}
+
