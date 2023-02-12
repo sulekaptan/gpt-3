@@ -1,4 +1,4 @@
-#GPT-3
+# GPT-3
 
 ## Run Locally 
 
@@ -26,7 +26,7 @@ Start the project
 npm start
 ~~~  
 
-##Live Server
+## Live Server
 ~~~bash  
 https://sulekaptan-gpt3.netlify.app/
 ~~~ 
