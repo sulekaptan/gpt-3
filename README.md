@@ -27,6 +27,4 @@ npm start
 ~~~  
 
 ## Live Server
-~~~bash  
 https://sulekaptan-gpt3.netlify.app/
-~~~ 
