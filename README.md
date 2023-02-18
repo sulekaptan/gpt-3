@@ -5,13 +5,13 @@
 Clone the project  
 
 ~~~bash  
-git clone https://github.com/sulekaptan/gpt3.git
+git clone https://github.com/sulekaptan/gpt-3.git
 ~~~
 
 Go to the project directory  
 
 ~~~bash  
-cd gpt3
+cd gpt-3
 ~~~
 
 Install dependencies  
